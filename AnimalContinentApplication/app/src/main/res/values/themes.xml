@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AnimalContinentApplication" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!--        culoarea butoanelor-->
+        <item name="colorPrimary">@color/light_pink</item>
+
+        <!--        culoarea barei de notificari-->
+        <item name="colorAccent">@color/sage</item>
+        <item name="android:statusBarColor">@color/sage</item>
+
+        <!--        culoarea fundalului-->
+        <item name="android:windowBackground">@color/sage</item>
+
+
+    </style>
+
+    <style name="Theme.AnimalContinentApplication" parent="Base.Theme.AnimalContinentApplication" />
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnimalContinentApplication</string>
+    <string-array name="continent_options">
+        <item>Africa</item>
+        <item>South America</item>
+        <item>North America</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Australia</item>
+        <item>Antarctica</item>
+    </string-array>
+</resources>
